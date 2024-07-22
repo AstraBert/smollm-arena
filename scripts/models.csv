@@ -1,0 +1,8 @@
+MODEL,MATCHES_PLAYED,MATCHES_WON,WINNING_RATE
+HuggingFaceTB/SmolLM-135M-Instruct,0,0,0
+HuggingFaceTB/SmolLM-360M,0,0,0
+HuggingFaceTB/SmolLM-360M-Instruct,0,0,0
+HuggingFaceTB/SmolLM-1.7B,0,0,0
+HuggingFaceTB/SmolLM-1.7B-Instruct,0,0,0
+Qwen/Qwen2-1.5B-Instruct,0,0,0
+Qwen/Qwen2-0.5B,0,0,0
